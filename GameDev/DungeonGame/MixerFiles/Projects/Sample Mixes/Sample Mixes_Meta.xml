@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudioProjectMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PresetVersion="1">
+  <StudioAssetMetas>
+    <StudioAssetMeta>
+      <Name>Quarry – Retextured 3D Asset</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Quarry – Retextured 3D Asset\Quarry – Retextured 3D Asset.xml</MixerXMLPath>
+      <MixerVersion>2021.1.0</MixerVersion>
+      <MixPresetVersion>14</MixPresetVersion>
+      <SaveTime>2021-04-21T16:54:17.5172082+01:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Crunch Robot – MTS Materials</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Crunch Robot – MTS Materials\Crunch Robot – MTS Materials.xml</MixerXMLPath>
+      <MixerVersion>2021.1.0</MixerVersion>
+      <MixPresetVersion>14</MixPresetVersion>
+      <SaveTime>2021-04-21T16:53:35.421899+01:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Sci-Fi Barrel – MTS UDIMs</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Sci-Fi Barrel – MTS UDIMs\Sci-Fi Barrel – MTS UDIMs.xml</MixerXMLPath>
+      <MixerVersion>2021.1.0</MixerVersion>
+      <MixPresetVersion>14</MixPresetVersion>
+      <SaveTime>2021-04-21T16:39:59.5753188+01:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Parking Meter – Mask Export</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Parking Meter – Mask Export\Parking Meter – Mask Export.xml</MixerXMLPath>
+      <MixerVersion>2021.1.0</MixerVersion>
+      <MixPresetVersion>14</MixPresetVersion>
+      <SaveTime>2021-04-21T13:36:33.4743913+01:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Damaged Painted Concrete</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Damaged Painted Concrete\Damaged Painted Concrete.xml</MixerXMLPath>
+      <MixerVersion>2019.3.0.54</MixerVersion>
+      <MixPresetVersion>12</MixPresetVersion>
+      <SaveTime>2020-02-26T11:26:18.2165383+00:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Broken Tiles</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Broken Tiles\Broken Tiles.xml</MixerXMLPath>
+      <MixerVersion>2019.3.0.54</MixerVersion>
+      <MixPresetVersion>12</MixPresetVersion>
+      <SaveTime>2020-02-26T11:25:03.4723654+00:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Jungle Ruin Floor</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Jungle Ruin Floor\Jungle Ruin Floor.xml</MixerXMLPath>
+      <MixerVersion>2019.0.0.16</MixerVersion>
+      <MixPresetVersion>6</MixPresetVersion>
+      <SaveTime>2019-03-13T13:41:27.1313527+00:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Stylized Floor</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Stylized Floor\Stylized Floor.xml</MixerXMLPath>
+      <MixerVersion>2019.0.0.16</MixerVersion>
+      <MixPresetVersion>6</MixPresetVersion>
+      <SaveTime>2019-03-12T18:39:08.5633821+00:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Snowy Mountains</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Snowy Mountains\Snowy Mountains.xml</MixerXMLPath>
+      <MixerVersion>2019.0.0.15</MixerVersion>
+      <MixPresetVersion>6</MixPresetVersion>
+      <SaveTime>2019-03-08T21:02:50.9018513+00:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Wet Mud</Name>
+      <MixerXMLPath>D:\Documents\Github\GameDevUE4\MixerFiles\Projects\Sample Mixes\Wet Mud\Wet Mud.xml</MixerXMLPath>
+      <MixerVersion>2019.0.0.2</MixerVersion>
+      <MixPresetVersion>3</MixPresetVersion>
+      <SaveTime>2019-01-11T12:25:34.768625+00:00</SaveTime>
+    </StudioAssetMeta>
+  </StudioAssetMetas>
+</StudioProjectMetaData>

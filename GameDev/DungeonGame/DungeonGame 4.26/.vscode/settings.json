@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"/Users/Alex/Documents/GitHub/GameDevUE4/DungeonGame/.vscode": true,
+		"/Users/Alex/Documents/GitHub/GameDevUE4/DungeonGame/Content": true,
+		"/Users/Alex/Documents/GitHub/GameDevUE4/DungeonGame/DerivedDataCache": true,
+		"/Users/Alex/Documents/GitHub/GameDevUE4/DungeonGame/Intermediate": true,
+		"/Users/Alex/Documents/GitHub/GameDevUE4/DungeonGame/Saved": true
+	}
+}
