@@ -1180,3 +1180,19 @@ If checked into source control this would affect other developers.
 [2022.04.07-21.08.52:610][ 45]LogShaderCompilers: Display:                                          FClusteredShadingPS - 2.47% of total time (compiled    4 times, average 118.66 sec, max 294.39 sec, min 2.80 sec)
 [2022.04.07-21.08.52:610][ 45]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.44% of total time (compiled  187 times, average 2.51 sec, max 6.77 sec, min 1.12 sec)
 [2022.04.07-21.08.52:610][ 45]LogShaderCompilers: Display: ================================================
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:\Users\Alex\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:\Users\Alex\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.07-21.20.39:053][431]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.04.07-21.51.49:519][556]LogDerivedDataCache: C:/Users/Alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.343 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.07-21.52.52:844][152]LogSlate: Window 'Source Control Login' being destroyed
