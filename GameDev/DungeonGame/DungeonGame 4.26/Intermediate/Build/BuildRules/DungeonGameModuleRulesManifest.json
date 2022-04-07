@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\DungeonGame.Build.cs",
+		"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame.Target.cs",
+		"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

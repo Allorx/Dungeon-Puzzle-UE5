@@ -1,67 +1,57 @@
 [
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\Cube_A.cpp",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\Cube_A.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\Cube_A.h",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\Cube_A.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\DungeonGame.Build.cs",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\DungeonGame.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\DungeonGame.cpp",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\DungeonGame.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\DungeonGame.h",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\DungeonGame.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\MainChar_Object_A.cpp",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\MainChar_Object_A.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\MainChar_Object_A.h",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\MainChar_Object_A.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\MainPlayer_P.cpp",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\MainPlayer_P.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\MainPlayer_P.h",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\MainPlayer_P.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\Object_A.cpp",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\Object_A.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\Object_A.h",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
-	},
-	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\Obstacle_Object.cpp",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
-	},
-	{
-		"file": "D:\\\\Documents\\\\GameDev\\\\DungeonGame\\\\DungeonGame 4.26\\\\Source\\\\DungeonGame\\\\Obstacle_Object.h",
-		"command": "cl.exe @\"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.214.rsp\"",
-		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Source"
+		"file": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Source\\DungeonGame\\Object_A.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default\\DungeonGame.229.rsp\"",
+		"directory": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Source"
 	}
 ]

@@ -3,14 +3,14 @@
         {
             "name": "DungeonGameEditor Editor Win64 Development (DungeonGame)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_DungeonGame.json",
+            "compileCommands": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_DungeonGame.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }

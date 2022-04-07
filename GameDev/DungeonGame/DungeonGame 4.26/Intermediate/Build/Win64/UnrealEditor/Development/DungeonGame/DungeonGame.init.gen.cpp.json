@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeongame\\dungeongame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\dungeongameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\development\\dungeongame\\definitions.dungeongame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

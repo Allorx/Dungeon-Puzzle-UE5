@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeongame\\mainplayer_p.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\dungeongameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\development\\dungeongame\\definitions.dungeongame.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\source\\dungeongame\\mainplayer_p.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\source\\dungeongame\\cube_a.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeongame\\cube_a.generated.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\source\\dungeongame\\mainchar_object_a.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\source\\dungeongame\\object_a.h",
+            "d:\\documents\\epicgameslibrary\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "d:\\documents\\epicgameslibrary\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetmathlibrary.generated.h",
+            "d:\\documents\\epicgameslibrary\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeongame\\object_a.generated.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeongame\\mainchar_object_a.generated.h",
+            "d:\\documents\\github\\dungeon-puzzle-base\\gamedev\\dungeongame\\dungeongame 4.26\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeongame\\mainplayer_p.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

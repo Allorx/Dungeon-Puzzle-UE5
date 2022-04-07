@@ -2,127 +2,151 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "DungeonGame (Debug)",
+			"name": "Launch DungeonGame (Debug)",
 			"request": "launch",
+			"program": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "DungeonGame Win64 Debug Build",
-			"program": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
-			"name": "DungeonGame (DebugGame)",
+			"name": "Launch DungeonGame (DebugGame)",
 			"request": "launch",
+			"program": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "DungeonGame Win64 DebugGame Build",
-			"program": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
-			"name": "DungeonGame (Development)",
+			"name": "Launch DungeonGame (Development)",
 			"request": "launch",
+			"program": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "DungeonGame Win64 Development Build",
-			"program": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
-			"name": "DungeonGame (Shipping)",
+			"name": "Launch DungeonGame (Test)",
 			"request": "launch",
-			"preLaunchTask": "DungeonGame Win64 Shipping Build",
-			"program": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
-			"args": [
-			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
-			"stopAtEntry": false,
-			"externalConsole": true,
-			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
-		},
-		{
-			"name": "DungeonGame (Test)",
-			"request": "launch",
+			"program": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "DungeonGame Win64 Test Build",
-			"program": "D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
-			"name": "DungeonGameEditor (Debug)",
+			"name": "Launch DungeonGame (Shipping)",
 			"request": "launch",
+			"program": "D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "DungeonGame Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch DungeonGameEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "DungeonGameEditor Win64 Debug Build",
-			"program": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject"
+				"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject"
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
-			"name": "DungeonGameEditor (DebugGame)",
+			"name": "Launch DungeonGameEditor (DebugGame)",
 			"request": "launch",
+			"program": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "DungeonGameEditor Win64 DebugGame Build",
-			"program": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject"
+				"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject"
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
-			"name": "DungeonGameEditor (Development)",
+			"name": "Launch DungeonGameEditor (Development)",
 			"request": "launch",
+			"program": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "DungeonGameEditor Win64 Development Build",
-			"program": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject"
+				"D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject"
 			],
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26",
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0",
 			"stopAtEntry": false,
-			"externalConsole": true,
+			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
+			}
 		},
 		{
 			"name": "Generate Project Files",
-			"type": "clr",
+			"type": "coreclr",
 			"request": "launch",
-			"program": "D:\\Documents\\EpicGamesLibrary\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
-			"console": "externalTerminal",
+			"program": "D:\\Documents\\EpicGamesLibrary\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=D:\\Documents\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject",
+				"-project=D:\\Documents\\Github\\Dungeon-Puzzle-Base\\GameDev\\DungeonGame\\DungeonGame 4.26\\DungeonGame.uproject",
 				"-game",
 				"-engine"
 			],
-			"internalConsoleOptions": "openOnSessionStart",
-			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_4.26"
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Documents\\EpicGamesLibrary\\UE_5.0"
 		}
 	]
 }
