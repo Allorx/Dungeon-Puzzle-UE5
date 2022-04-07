@@ -1,2 +1,0 @@
-D:\Documents\GameDev\DungeonGame\DungeonGame 4.26\Intermediate\Build\Win64\UE4Editor\Development\DungeonGame\Definitions.DungeonGame.h
-D:\Documents\GameDev\DungeonGame\DungeonGame 4.26\Source\DungeonGame\DungeonGame.h
